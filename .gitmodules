@@ -1,3 +1,6 @@
 [submodule "Automatizacion_corte_pygis"]
 	path = Automatizacion_corte_pygis
 	url = https://github.com/Mulberick/Automatizacion_corte_pygis
+[submodule "inspector-capas-vectoriales"]
+	path = inspector-capas-vectoriales
+	url = https://github.com/Mulberick/inspector-capas-vectoriales
