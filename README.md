@@ -1,7 +1,7 @@
 <div align="center">
 
 ---
-# [Nombre de la Materia]
+# Programacion en SIG
 
 ### Tareas y proyectos realizados durante el semestre.
 
